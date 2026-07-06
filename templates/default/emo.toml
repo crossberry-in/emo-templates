@@ -1,0 +1,19 @@
+# emo.toml — project configuration
+name = "my-app"
+package = "dev.emo.app"
+version = "0.1.0"
+sdkVersion = "0.1"
+
+[dev]
+port = 7575
+watch = "."
+
+[build]
+output = "build/app.apk"
+kotlinPackage = "dev.emo.app"
+
+[plugins]
+camera = true
+location = true
+storage = true
+vibration = true

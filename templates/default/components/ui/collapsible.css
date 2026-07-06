@@ -1,0 +1,3 @@
+.collapsible { padding: 8dp; spacing: 4dp; background: #F8F8F8; }
+.collapsibleTitle { font-size: 16sp; font-weight: bold; color: #333333; }
+.collapsibleContent { padding: 8dp; spacing: 4dp; }

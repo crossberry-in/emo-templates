@@ -1,0 +1,20 @@
+{
+  "emo": {
+    "name": "my-app",
+    "slug": "my-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "sdkVersion": "0.1",
+    "android": {
+      "package": "dev.emo.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "plugins": [
+      "emo-router",
+      "emo-splash-screen"
+    ]
+  }
+}

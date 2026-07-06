@@ -1,0 +1,5 @@
+.tabsContainer { background: #FFFFFF; padding: 0dp; spacing: 0dp; }
+.tabContent { padding: 24dp; spacing: 8dp; flex: 1; }
+.tabTitle { font-size: 24sp; font-weight: bold; color: #333333; }
+.tabBody { font-size: 16sp; color: #666666; }
+.tabBar { padding: 12dp; spacing: 8dp; background: #F8F8F8; }

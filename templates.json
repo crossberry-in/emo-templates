@@ -1,5 +1,10 @@
 [
   {
+    "name": "default",
+    "description": "Full project with file-based routing, themed components, hooks, and android/ folder",
+    "path": "templates/default"
+  },
+  {
     "name": "blank",
     "description": "A minimal starting point — one screen, one state variable",
     "path": "templates/blank"
