@@ -1,0 +1,22 @@
+[
+  {
+    "name": "blank",
+    "description": "A minimal starting point — one screen, one state variable",
+    "path": "templates/blank"
+  },
+  {
+    "name": "counter",
+    "description": "A counter app with +/- buttons and reset — shows state and onClick",
+    "path": "templates/counter"
+  },
+  {
+    "name": "todo",
+    "description": "A todo list with input field and add button — shows TextField",
+    "path": "templates/todo"
+  },
+  {
+    "name": "navigation",
+    "description": "A multi-screen app with bottom navigation bar — shows screen routing",
+    "path": "templates/navigation"
+  }
+]

@@ -1,0 +1,10 @@
+.modalOverlay {
+  background: #80000000;
+  padding: 32dp;
+  spacing: 16dp;
+}
+.modalContent {
+  background: #FFFFFF;
+  padding: 24dp;
+  spacing: 12dp;
+}

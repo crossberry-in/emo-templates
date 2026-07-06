@@ -1,0 +1,14 @@
+name = "blank"
+package = "dev.emo.blank"
+version = "0.1.0"
+[dev]
+port = 7575
+watch = "."
+[build]
+output = "build/app.apk"
+kotlinPackage = "dev.emo.blank"
+[plugins]
+camera = true
+location = true
+storage = true
+vibration = true

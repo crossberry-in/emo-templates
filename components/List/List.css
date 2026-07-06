@@ -1,0 +1,9 @@
+.list {
+  background: #FFFFFF;
+  spacing: 0dp;
+}
+.listItem {
+  padding: 16dp;
+  font-size: 16sp;
+  color: #333333;
+}

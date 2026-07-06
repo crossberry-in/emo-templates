@@ -1,0 +1,13 @@
+name = "counter"
+package = "dev.emo.counter"
+version = "0.1.0"
+[dev]
+port = 7575
+[build]
+output = "build/app.apk"
+kotlinPackage = "dev.emo.counter"
+[plugins]
+camera = true
+location = true
+storage = true
+vibration = true

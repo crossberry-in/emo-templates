@@ -1,0 +1,9 @@
+.loading {
+  padding: 48dp;
+  spacing: 16dp;
+  background: #FFFFFF;
+}
+.loadingText {
+  font-size: 16sp;
+  color: #888888;
+}

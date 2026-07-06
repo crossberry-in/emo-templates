@@ -1,0 +1,13 @@
+name = "navigation"
+package = "dev.emo.navigation"
+version = "0.1.0"
+[dev]
+port = 7575
+[build]
+output = "build/app.apk"
+kotlinPackage = "dev.emo.navigation"
+[plugins]
+camera = true
+location = true
+storage = true
+vibration = true

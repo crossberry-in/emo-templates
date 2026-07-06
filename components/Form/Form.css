@@ -1,0 +1,10 @@
+.form {
+  padding: 16dp;
+  spacing: 12dp;
+  background: #FFFFFF;
+}
+.label {
+  font-size: 14sp;
+  font-weight: bold;
+  color: #555555;
+}

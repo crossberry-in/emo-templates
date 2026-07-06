@@ -1,0 +1,13 @@
+name = "todo"
+package = "dev.emo.todo"
+version = "0.1.0"
+[dev]
+port = 7575
+[build]
+output = "build/app.apk"
+kotlinPackage = "dev.emo.todo"
+[plugins]
+camera = true
+location = true
+storage = true
+vibration = true
