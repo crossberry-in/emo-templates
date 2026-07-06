@@ -12,9 +12,7 @@ component App {
 
         <Row className="navBar">
           <Button onClick={() => url = "https://crossberry-in.github.io/emo-docs/"}>Emo</Button>
-          <Button onClick={() => url = "https://github.com"}>GitHub</Button>
-          <Button onClick={() => url = "https://google.com"}>Google</Button>
-        </Row>
+          </Row>
 
         <WebView source={url} className="webView" />
       </Column>
