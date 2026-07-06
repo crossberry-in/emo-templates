@@ -1,1 +1,18 @@
-.container { background: #FFFFFF; padding: 0dp; spacing: 0dp; }
+/* app/index.css — WebView demo */
+.safe {
+  background: #FFFFFF;
+  padding: 0dp;
+  spacing: 0dp;
+}
+.container {
+  padding: 0dp;
+  spacing: 0dp;
+}
+.navBar {
+  padding: 8dp;
+  spacing: 8dp;
+  background: #F8F8F8;
+}
+.webView {
+  height: 600dp;
+}
