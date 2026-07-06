@@ -1,14 +1,1 @@
-.card {
-  background: #FFFFFF;
-  padding: 16dp;
-  spacing: 8dp;
-  margin: 8dp;
-}
-.cardTitle {
-  font-size: 18sp;
-  font-weight: bold;
-  color: #333333;
-}
-.cardContent {
-  spacing: 4dp;
-}
+/* Card.css */

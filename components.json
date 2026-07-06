@@ -1,32 +1,24 @@
 [
-  {
-    "name": "Card",
-    "description": "A card container with optional title and content area",
-    "path": "components/Card"
-  },
-  {
-    "name": "Modal",
-    "description": "A centered overlay dialog with semi-transparent backdrop",
-    "path": "components/Modal"
-  },
-  {
-    "name": "Form",
-    "description": "A form with labeled text fields and submit button",
-    "path": "components/Form"
-  },
-  {
-    "name": "List",
-    "description": "A vertical list of items with dividers",
-    "path": "components/List"
-  },
-  {
-    "name": "Loading",
-    "description": "A centered loading indicator with customisable message",
-    "path": "components/Loading"
-  },
-  {
-    "name": "EmptyState",
-    "description": "An empty state placeholder with title and subtitle",
-    "path": "components/EmptyState"
-  }
+  {"name": "WebView", "description": "Embed web pages via Android WebView", "path": "components/WebView"},
+  {"name": "Input", "description": "Single-line text input field", "path": "components/Input"},
+  {"name": "SafeAreaView", "description": "Container that respects status bar and nav bar insets", "path": "components/SafeAreaView"},
+  {"name": "ScrollView", "description": "Vertically scrolling container", "path": "components/ScrollView"},
+  {"name": "Switch", "description": "Toggle switch (on/off)", "path": "components/Switch"},
+  {"name": "Slider", "description": "Range slider (0..1)", "path": "components/Slider"},
+  {"name": "ActivityIndicator", "description": "Circular loading spinner", "path": "components/ActivityIndicator"},
+  {"name": "Picker", "description": "Dropdown picker with options", "path": "components/Picker"},
+  {"name": "Checkbox", "description": "Boolean checkbox", "path": "components/Checkbox"},
+  {"name": "RadioButton", "description": "Radio button", "path": "components/RadioButton"},
+  {"name": "Icon", "description": "Material design icon", "path": "components/Icon"},
+  {"name": "Card", "description": "Material design card container", "path": "components/Card"},
+  {"name": "Progress", "description": "Linear progress bar", "path": "components/Progress"},
+  {"name": "TabBar", "description": "Horizontal tab bar with content switching", "path": "components/TabBar"},
+  {"name": "BottomNav", "description": "Bottom navigation bar", "path": "components/BottomNav"},
+  {"name": "TopBar", "description": "Top app bar", "path": "components/TopBar"},
+  {"name": "Fab", "description": "Floating action button", "path": "components/Fab"},
+  {"name": "List", "description": "Vertical list with dividers", "path": "components/List"},
+  {"name": "Modal", "description": "Centered overlay dialog", "path": "components/Modal"},
+  {"name": "Form", "description": "Form with labeled text fields", "path": "components/Form"},
+  {"name": "Loading", "description": "Loading indicator with message", "path": "components/Loading"},
+  {"name": "EmptyState", "description": "Empty state placeholder", "path": "components/EmptyState"}
 ]

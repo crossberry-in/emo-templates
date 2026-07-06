@@ -1,1 +1,8 @@
-.container { padding: 24dp; spacing: 16dp; background: #FFFFFF; }
+.safeArea { background: #FFFFFF; padding: 0dp; spacing: 0dp; }
+.scrollView { background: #FFFFFF; padding: 0dp; spacing: 0dp; }
+.container { padding: 16dp; spacing: 12dp; background: #FFFFFF; }
+.row { spacing: 8dp; padding: 8dp; align: center; }
+.webView { height: 300dp; }
+.input { padding: 8dp; }
+.card { padding: 16dp; margin: 8dp; }
+.fab { margin: 16dp; }
